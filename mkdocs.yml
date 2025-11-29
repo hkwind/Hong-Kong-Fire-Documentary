@@ -43,20 +43,23 @@ plugins:
           default: true
           name: 繁體中文
           build: true
+          site_name: 11.26 大埔宏福苑火災紀錄庫
+          nav_translations:
+            Home: 主頁
+            Timeline: 時間線
+            Videos: 現場片段
+            News: 新聞報道
+            Analysis: 技術分析
+            Support: 支援資訊
+            Photos: 圖片紀錄
+            Residents: 居民討論
+            Docs: 政府文件
         - locale: en
           name: English
           build: true
-      nav_translations:
-        zh-Hant:
-          Home: 主頁
-          Timeline: 時間線
-          Videos: 現場片段
-          News: 新聞報道
-          Analysis: 技術分析
-          Support: 支援資訊
-          Photos: 圖片紀錄
-          Residents: 居民討論
-          Docs: 政府文件
+          site_name: Hong Kong Fire Documentary
+          theme:
+            language: en
 
 nav:
   - Home: index.md
