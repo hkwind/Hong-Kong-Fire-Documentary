@@ -48,7 +48,7 @@ Please note that some websites and groups listed below are in Chinese only. In m
 ### 2.3 Wang Fuk Court Blaze Info (宏福苑消息)
 
 - **Website**: <https://blaze-info.vercel.app/>
-- **Features**: 
+- **Features**:
   - Live emergency updates
   - Info on shelters
   - Category of supplies in need
@@ -59,7 +59,7 @@ Please note that some websites and groups listed below are in Chinese only. In m
 ### 2.4 Wang Fuk Court Support Integration Platform
 
 - **Website**: <https://supporttaipohk.com/> (English version available)
-- **Key Features**: 
+- **Key Features**:
   - **Resources**: Upload support information, consolidated using AI
   - **Volunteering**: Track on-duty volunteers by location using GPS (Note: Allocation features unavailable)
   - **News Updates with Credibility Voting**
@@ -108,7 +108,7 @@ Please note that some websites and groups listed below are in Chinese only. In m
 ### 6.1 150+ HK Resources on Tai Po Fire page (【大埔火災全港資源整合】網站)
 
 - **Website**: <https://www.notion.so/2b797bbbedf88061b0b3f8970b8642a7?pvs=21>
-- **Key Features**: 
+- **Key Features**:
   - **Top-10 Resources at a Glance**: Fact-checked by volunteers with accuracy ratings
   - **Detailed Manual**: Guides on how to utilise the resources and information flow
 - **Upside**: Volunteer Verification, Accuracy Ratings, Concrete Structure
