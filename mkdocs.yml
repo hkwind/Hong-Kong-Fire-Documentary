@@ -41,24 +41,24 @@ plugins:
           name: English
           build: true
       nav_translations:
-        en:
-          主頁: Home
-          時間線: Timeline
-          現場片段: Videos
-          新聞報道: News
-          技術分析: Analysis
-          支援資訊: Support
-          圖片紀錄: Photos
-          居民討論: Residents
-          政府文件: Docs
+        zh:
+          Home: 主頁
+          Timeline: 時間線
+          Videos: 現場片段
+          News: 新聞報道
+          Analysis: 技術分析
+          Support: 支援資訊
+          Photos: 圖片紀錄
+          Residents: 居民討論
+          Docs: 政府文件
 
 nav:
-  - 主頁: index.md
-  - 時間線: timeline/README.md
-  - 現場片段: videos/README.md
-  - 新聞報道: news/README.md
-  - 技術分析: analysis/README.md
-  - 支援資訊: support/README.md
-  - 圖片紀錄: photos/README.md
-  - 居民討論: residents/README.md
-  - 政府文件: docs/README.md
+  - Home: index.md
+  - Timeline: timeline/README.md
+  - Videos: videos/README.md
+  - News: news/README.md
+  - Analysis: analysis/README.md
+  - Support: support/README.md
+  - Photos: photos/README.md
+  - Residents: residents/README.md
+  - Docs: docs/README.md
